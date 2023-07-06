@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyChatApp</string>
+    <string name="login_button">Log in</string>
+    <string name="sing_button">Sing in</string>
+    <string name="email_input">Email</string>
+    <string name="senha_input">Senha</string>
+    <string name="nome_input">Nome</string>
+    <string name="log_out">log out</string>
+</resources>
